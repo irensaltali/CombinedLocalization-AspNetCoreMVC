@@ -6,3 +6,4 @@
 /.vs/AspNetCoreMVCLocalizationBySubdomain/v15/Server/sqlite3
 /AspNetCoreMVCLocalizationBySubdomain/bin
 /AspNetCoreMVCLocalizationBySubdomain/Properties/PublishProfiles
+/.vs/CombinedLocalization/v15/Server/sqlite3
